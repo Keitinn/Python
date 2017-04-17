@@ -9,3 +9,6 @@ if a > 1:
             print ('d')
         elif a > 30:
             print ('e')
+
+
+//dosukoi
